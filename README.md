@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MongoDB, Flutter, Tensorflow**
 
-- 💬 Ask me about **React, Postman**
+- 💬 Ask me about **React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
